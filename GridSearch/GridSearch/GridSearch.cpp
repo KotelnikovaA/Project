@@ -136,7 +136,6 @@ void calculateErrors(const Point& result, double step_x, double step_y) {
     cout << "   По y: ±" << max_grid_error_y << endl;
 
     cout << "2. Фактические погрешности:\n";
-    cout << fixed << setprecision(6);
     cout << "   По x: " << actual_error_x << endl;
     cout << "   По y: " << actual_error_y << endl;
     cout << "   По значению: " << actual_error_value << endl;
