@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\main.cpp(509,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\main.cpp(515,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\main.cpp(1415,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\main.cpp(1434,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\main.cpp(1453,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\main.cpp(1472,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  6 of 1175 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  main.vcxproj -> C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\x64\Release\main.exe

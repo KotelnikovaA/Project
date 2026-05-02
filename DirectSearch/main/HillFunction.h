@@ -1,5 +1,5 @@
-#ifndef HILL_FUNCTION_HPP
-#define HILL_FUNCTION_HPP
+#ifndef HILL_FUNCTION_H
+#define HILL_FUNCTION_H
 
 #include <vector>
 #include "HillProblem.h"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rabat\\Desktop\\DirectSearch\\",
+  "WorkspaceRootPath": "C:\\Users\\rabat\\Desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\u041E \u043B\u0435\u0431\u0435\u0434\u0435\u0432\\DirectSearch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8232F3C0-0391-4F71-9F74-1783C3124B70}|main\\main.vcxproj|C:\\Users\\rabat\\Desktop\\DirectSearch\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8232F3C0-0391-4F71-9F74-1783C3124B70}|main\\main.vcxproj|C:\\Users\\rabat\\Desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\u041E \u043B\u0435\u0431\u0435\u0434\u0435\u0432\\DirectSearch\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8232F3C0-0391-4F71-9F74-1783C3124B70}|main\\main.vcxproj|solutionrelative:main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\rabat\\Desktop\\DirectSearch\\main\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\rabat\\Desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\u041E \u043B\u0435\u0431\u0435\u0434\u0435\u0432\\DirectSearch\\main\\main.cpp",
               "RelativeDocumentMoniker": "main\\main.cpp",
-              "ToolTip": "C:\\Users\\rabat\\Desktop\\DirectSearch\\main\\main.cpp",
+              "ToolTip": "C:\\Users\\rabat\\Desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\u041E \u043B\u0435\u0431\u0435\u0434\u0435\u0432\\DirectSearch\\main\\main.cpp",
               "RelativeToolTip": "main\\main.cpp",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAPUEAAAAAAAAAADwvxMFAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-10T18:44:12.886Z",
               "IsPinned": true,

@@ -1,5 +1,15 @@
-C:\Users\rabat\Desktop\DirectSearch\main\DirectSearch.cpp;C:\Users\rabat\Desktop\DirectSearch\main\x64\Debug\DirectSearch.obj
-C:\Users\rabat\Desktop\DirectSearch\main\HillFunction.cpp;C:\Users\rabat\Desktop\DirectSearch\main\x64\Debug\HillFunction.obj
-C:\Users\rabat\Desktop\DirectSearch\main\HillProblem.cpp;C:\Users\rabat\Desktop\DirectSearch\main\x64\Debug\HillProblem.obj
-C:\Users\rabat\Desktop\DirectSearch\main\main.cpp;C:\Users\rabat\Desktop\DirectSearch\main\x64\Debug\main.obj
-C:\Users\rabat\Desktop\DirectSearch\main\Rastrigin.cpp;C:\Users\rabat\Desktop\DirectSearch\main\x64\Debug\Rastrigin.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\DiffEvolution.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\DiffEvolution.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\DirectSearch.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\DirectSearch.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\GKLSProblem.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\GKLSProblem.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\gkls_random.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\gkls_random.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\GrishaginOption.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\GrishaginOption.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\grishagin_function.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\grishagin_function.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\HillFunction.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\HillFunction.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\HillProblem.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\HillProblem.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\IGeneralOptProblem.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\IGeneralOptProblem.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\IGeneralOptProblemFamily.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\IGeneralOptProblemFamily.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\IOptProblem.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\IOptProblem.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\IOptProblemFamily.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\IOptProblemFamily.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\main.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\main.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\Rastrigin.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\Rastrigin.obj
+C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\ShekelProblem.cpp;C:\Users\rabat\Desktop\универ\3 курс\курсовая МО лебедев\DirectSearch\main\x64\Debug\ShekelProblem.obj

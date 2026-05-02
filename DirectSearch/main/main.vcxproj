@@ -127,17 +127,43 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DiffEvolution.cpp" />
     <ClCompile Include="DirectSearch.cpp" />
+    <ClCompile Include="GKLSProblem.cpp" />
+    <ClCompile Include="gkls_random.cpp" />
+    <ClCompile Include="GrishaginOption.cpp" />
+    <ClCompile Include="grishagin_function.cpp" />
     <ClCompile Include="HillFunction.cpp" />
     <ClCompile Include="HillProblem.cpp" />
+    <ClCompile Include="IGeneralOptProblem.cpp" />
+    <ClCompile Include="IGeneralOptProblemFamily.cpp" />
+    <ClCompile Include="IOptProblem.cpp" />
+    <ClCompile Include="IOptProblemFamily.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Rastrigin.cpp" />
+    <ClCompile Include="ShekelProblem.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DiffEvolution.h" />
     <ClInclude Include="DirectSearch.h" />
+    <ClInclude Include="GKLSFunctions.h" />
+    <ClInclude Include="GKLSOption.h" />
+    <ClInclude Include="GKLSProblem.h" />
+    <ClInclude Include="gkls_random.h" />
+    <ClInclude Include="GrishaginFunctions.h" />
+    <ClInclude Include="GrishaginOption.h" />
+    <ClInclude Include="GrishaginProblemFamily.h" />
+    <ClInclude Include="grishagin_function.h" />
     <ClInclude Include="HillFunction.h" />
     <ClInclude Include="HillProblem.h" />
+    <ClInclude Include="IGeneralOptProblem.h" />
+    <ClInclude Include="IGeneralOptProblemFamily.h" />
+    <ClInclude Include="IOptProblem.h" />
+    <ClInclude Include="IOptProblemFamily.h" />
     <ClInclude Include="Rastrigin.h" />
+    <ClInclude Include="ShekelFunctions.h" />
+    <ClInclude Include="ShekelProblem.h" />
+    <ClInclude Include="ShekelProblemFamily.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
